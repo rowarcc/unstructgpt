@@ -1,0 +1,45 @@
+# Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# Distribution / packaging
+.Python
+dist/
+build/
+*.egg-info/
+
+# VSCode settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# macOS files
+.DS_Store
+
+# Other common temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.swm
+*.swn
+*.swl
+*.swk
+*.swx
+*.lock
+
+# Ignore output files (add more extensions if needed)
+*.txt
+*.csv
+*.json
